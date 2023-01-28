@@ -1,0 +1,30 @@
+﻿<Window x:Class="TimeBuddy.Details1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TimeBuddy"
+        mc:Ignorable="d"
+        Title="Details1" Height="250" Width="400">
+    <Grid>
+        <Button x:Name="Add_Programm" Content="Submit" HorizontalAlignment="Left" Margin="154,124,0,0" VerticalAlignment="Top" Width="75" Click="Add_Programm_Click"/>
+        <StackPanel x:Name="StackPanel_1" Margin="17,22,291.6,136">
+            <Label FontWeight="Bold">Select event</Label>
+            <RadioButton IsChecked="True">Open</RadioButton>
+            <RadioButton>Close</RadioButton>
+        </StackPanel>
+        <StackPanel Margin="135,22,139.6,136">
+
+            <Label FontWeight="Bold" Content="Select process" Margin="0,0,0.2,0"/>
+            <ComboBox x:Name="c_Box" Margin="0,0,0.2,0" Height="23">
+                <ComboBoxItem Content="msedge"/>
+                <ComboBoxItem IsSelected="True" Content="chrome"/>
+                <ComboBoxItem Content="Discord"/>
+            </ComboBox>
+        </StackPanel>
+        <Label   FontWeight="Bold" Content="Choose Time" HorizontalAlignment="Left" Margin="294,23,0,0" VerticalAlignment="Top" Height="24" Width="83"/>
+        <TextBox x:Name="timer_s" HorizontalAlignment="Left" Height="23" Margin="308,47,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="55"/>
+        <TextBox x:Name="Time_tb" HorizontalAlignment="Left" Height="23" Margin="295,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="82" ToolTip="Zeit im Format hh:mm"/>
+
+    </Grid>
+</Window>

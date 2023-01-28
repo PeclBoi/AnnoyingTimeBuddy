@@ -1,0 +1,17 @@
+C:\Users\alexa\source\TimeBuddy\TimeBuddy\bin\Debug\TimeBuddy.exe.config
+C:\Users\alexa\source\TimeBuddy\TimeBuddy\bin\Debug\TimeBuddy.exe
+C:\Users\alexa\source\TimeBuddy\TimeBuddy\bin\Debug\TimeBuddy.pdb
+C:\Users\alexa\source\TimeBuddy\TimeBuddy\obj\Debug\TimeBuddy.csproj.AssemblyReference.cache
+C:\Users\alexa\source\TimeBuddy\TimeBuddy\obj\Debug\MainWindow.g.cs
+C:\Users\alexa\source\TimeBuddy\TimeBuddy\obj\Debug\App.g.cs
+C:\Users\alexa\source\TimeBuddy\TimeBuddy\obj\Debug\TimeBuddy_MarkupCompile.cache
+C:\Users\alexa\source\TimeBuddy\TimeBuddy\obj\Debug\TimeBuddy_MarkupCompile.lref
+C:\Users\alexa\source\TimeBuddy\TimeBuddy\obj\Debug\MainWindow.baml
+C:\Users\alexa\source\TimeBuddy\TimeBuddy\obj\Debug\TimeBuddy.g.resources
+C:\Users\alexa\source\TimeBuddy\TimeBuddy\obj\Debug\TimeBuddy.Properties.Resources.resources
+C:\Users\alexa\source\TimeBuddy\TimeBuddy\obj\Debug\TimeBuddy.csproj.GenerateResource.cache
+C:\Users\alexa\source\TimeBuddy\TimeBuddy\obj\Debug\TimeBuddy.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\TimeBuddy\TimeBuddy\obj\Debug\TimeBuddy.exe
+C:\Users\alexa\source\TimeBuddy\TimeBuddy\obj\Debug\TimeBuddy.pdb
+C:\Users\alexa\source\TimeBuddy\TimeBuddy\obj\Debug\Details1.g.cs
+C:\Users\alexa\source\TimeBuddy\TimeBuddy\obj\Debug\Details1.baml
