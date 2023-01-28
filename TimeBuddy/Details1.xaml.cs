@@ -122,7 +122,17 @@ namespace TimeBuddy
 
             try
             {
-                Process.Start(app);
+                if (app == "Discord")
+                {
+                    Process discord = new Process();
+                    discord.StartInfo.FileName = "C://Users//alexa//AppData//Local//Discord//Update.exe";
+                    discord.StartInfo.Arguments = "--processStart Discord.exe";
+                    discord.Start();
+                }
+                else
+                {
+                    Process.Start(app);
+                }
             }
             catch
             {
